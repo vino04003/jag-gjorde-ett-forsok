@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\trrt\bin\Debug\net5.0\trrt.exe
+C:\Users\Admin\Desktop\trrt\bin\Debug\net5.0\trrt.deps.json
+C:\Users\Admin\Desktop\trrt\bin\Debug\net5.0\trrt.runtimeconfig.json
+C:\Users\Admin\Desktop\trrt\bin\Debug\net5.0\trrt.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\trrt\bin\Debug\net5.0\trrt.dll
+C:\Users\Admin\Desktop\trrt\bin\Debug\net5.0\ref\trrt.dll
+C:\Users\Admin\Desktop\trrt\bin\Debug\net5.0\trrt.pdb
+C:\Users\Admin\Desktop\trrt\obj\Debug\net5.0\trrt.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\trrt\obj\Debug\net5.0\trrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\trrt\obj\Debug\net5.0\trrt.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\trrt\obj\Debug\net5.0\trrt.AssemblyInfo.cs
+C:\Users\Admin\Desktop\trrt\obj\Debug\net5.0\trrt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\trrt\obj\Debug\net5.0\trrt.dll
+C:\Users\Admin\Desktop\trrt\obj\Debug\net5.0\ref\trrt.dll
+C:\Users\Admin\Desktop\trrt\obj\Debug\net5.0\trrt.pdb
+C:\Users\Admin\Desktop\trrt\obj\Debug\net5.0\trrt.genruntimeconfig.cache
